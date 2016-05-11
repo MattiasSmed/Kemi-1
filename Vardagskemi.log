@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.13)  9 MAY 2016 13:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.4.13)  10 MAY 2016 10:23
 entering extended mode
 **"C:/Users/nti/Documents/LaTeX/Kemi 1/Vardagskemi.tex"
 ("C:/Users/nti/Documents/LaTeX/Kemi 1/Vardagskemi.tex"
@@ -620,16 +620,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-[3] [4] (Vardagskemi.aux) ) 
+
+Overfull \hbox (26.06056pt too wide) in paragraph at lines 53--54
+[]\OT1/ptm/m/n/12 aterinlagras och att fluor verkar i hu-vud-sak lokalt p[]a ta
+ndy-tan genom att f[]a uppl[]osningen
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+
+ []
+
+[4] [5] (Vardagskemi.aux) ) 
 Here is how much of TeX's memory you used:
  8236 strings out of 493698
  148489 string characters out of 3144444
- 187217 words of memory out of 3000000
+ 188217 words of memory out of 3000000
  11514 multiletter control sequences out of 15000+200000
  32444 words of font info for 69 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -639,9 +650,9 @@ e/8r.enc}<C:/Users/nti/Desktop/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 <C:/Users/nti/Desktop/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
 s/nti/Desktop/miktex/fonts/type1/urw/times/utmb8a.pfb><C:/Users/nti/Desktop/mik
 tex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Vardagskemi.pdf (7 pages, 54734 bytes).
+Output written on Vardagskemi.pdf (8 pages, 57480 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
