@@ -10,9 +10,11 @@
 \contentsline {paragraph}{}{1}
 \contentsline {section}{\numberline {3}Tandkr\IeC {\"a}mens inneh\IeC {\r a}ll}{2}
 \contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
 \contentsline {section}{\numberline {4}Varf\IeC {\"o}r finns fluor i tandkr\IeC {\"a}m?}{3}
 \contentsline {paragraph}{}{3}
 \contentsline {section}{\numberline {5}Slutsats}{3}
 \contentsline {subsection}{\numberline {5.1}Sammanfattande diskussion / Slutsats}{3}
+\contentsline {paragraph}{}{3}
 \contentsline {section}{\numberline {6}K\IeC {\"a}llf\IeC {\"o}rteckning}{4}
 \contentsline {section}{\numberline {7}Appendix}{5}
